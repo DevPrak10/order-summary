@@ -1,0 +1,104 @@
+body {
+    width: 1440px;
+    background-color: #c2d0f5;
+    margin: 0px;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.content {
+    width: 23%;
+    margin: 100px auto 150px auto;
+    position: absolute;
+    top: 0px;
+    left: 35%;
+    background-color: white;
+    border-radius: 16px;
+}
+
+#img {
+    width: 100%;
+    height: 25%;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+h1 {
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Outfit', sans-serif;
+    width: 75%;
+    text-align: center;
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    padding-left: 40px;
+    font-size: 15px;
+}
+
+#music {
+    float: left;
+    padding: 0 10px 0 5px;
+}
+
+#content {
+    position: relative;
+    background-color: #c2d0f5;
+    width: 80%;
+    margin: auto;
+    border-radius: 16px;
+    padding: 10px 0px 15px 0px;
+}
+
+.plan {
+    text-align: justify;
+}
+
+.change {
+    text-decoration: underline;
+    font-family: 'Outfit', sans-serif;
+    color: darkblue;
+    position: absolute;
+    right: 30px;
+    top: 20px;
+}
+
+#hi {
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+}
+
+#hi1 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: lighter;
+}
+
+#pro {
+    padding: 10px;
+    border-radius: 16px;
+    background-color: darkblue;
+    color: white;
+    margin: 30px 50px 20px 40px;
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+#can {
+    display: inline-block;
+    color: darkblue;
+    margin: 0px 40px 20px 45px;
+    width: 250px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
